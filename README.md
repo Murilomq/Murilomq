@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (4/8)⏳</p>
+<p align="left"> Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (4/8)</p>
 
 ###
 
